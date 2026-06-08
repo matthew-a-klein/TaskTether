@@ -14,7 +14,7 @@
 		A77F82642F60561700975447 /* Exceptions for "TaskTether" folder in "TaskTether" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Meta/Info.plist,
 			);
 			target = A77F82482F60147B00975447 /* TaskTether */;
 		};
@@ -282,7 +282,7 @@
 				ENABLE_RESOURCE_ACCESS_USB = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TaskTether/Info.plist;
+				INFOPLIST_FILE = TaskTether/Meta/Info.plist;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -323,7 +323,7 @@
 				ENABLE_RESOURCE_ACCESS_USB = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TaskTether/Info.plist;
+				INFOPLIST_FILE = TaskTether/Meta/Info.plist;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
